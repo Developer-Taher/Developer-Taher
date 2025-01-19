@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2 align="left">Hi 👋! My name is Taher Zidane and I'm a Software Engineer, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Taher Zidane and I'm a Software Engineer, from Egypt, live in Kuwait</h2>
 
 ###
 
