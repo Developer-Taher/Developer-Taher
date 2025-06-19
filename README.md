@@ -2,6 +2,7 @@
 
 <h2 align="center">Software Engineer | DevOps Engineer | Flutter Developer</h2>
 <h3 align="center">From Egypt 🇪🇬 | Living in Kuwait 🇰🇼</h3>
+<h3 align="center">Software Engineer at Ministry of Justice, Kuwait </h3>
 
 ---
 
